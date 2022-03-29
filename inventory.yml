@@ -1,0 +1,7 @@
+[ipfs]
+34.76.76.13
+34.122.104.155
+
+[ipfs_cluster:children]
+ipfs
+
